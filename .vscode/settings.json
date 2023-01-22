@@ -1,4 +1,5 @@
 {
+    "C_Cpp.intelliSenseEngine": "disabled",
     "cmake.buildDirectory": "${workspaceFolder}/build",
     "clangd.arguments": [
         "-background-index",
